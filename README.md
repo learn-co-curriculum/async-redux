@@ -35,7 +35,7 @@ Well, we already know how to make a web request. We can using something like Jav
 fetch('http://www.catapi.com')
 ```
 
-So, can we simpley make a `fetch` request inside our action creator function, instead of hard-coding in our data?
+So, can we simply make a `fetch` request inside our action creator function, instead of hard-coding in our data?
 
 ```js
 function fetchCats() {
@@ -156,3 +156,5 @@ And that's it!
 
 
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/async-redux'>Async Redux</a> on Learn.co and start learning to code for free.</p>
